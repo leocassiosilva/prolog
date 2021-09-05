@@ -1,0 +1,13 @@
+progenitor(sara,isaque).
+progenitor(abraão,isaque).
+progenitor(abraão,ismael).
+progenitor(isaque,esaú).
+progenitor(isaque,jacó).
+progenitor(jacó,josé).
+mulher(sara).
+homem(abraão).
+homem(isaque).
+homem(ismael).
+homem(esaú).
+homem(jacó).
+homem(josé).
